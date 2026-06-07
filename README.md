@@ -1,71 +1,43 @@
-<h1 align="center">Hi 👋 I'm Davood</h1>
-<h3 align="center">ASP.NET MVC / .NET Core Developer</h3>
-
----
-
-## 🚀 About Me
-
-💻 Backend-focused .NET Developer  
-🔧 Building scalable Web Applications & REST APIs  
-🏗 Specialized in ASP.NET MVC architecture  
-📊 Strong experience with SQL Server & Entity Framework  
-🚀 Passionate about clean architecture and performance optimization  
-
----
-
-## 🛠 Tech Stack
-
-### 💡 Backend
-- ASP.NET MVC
-- .NET Core
-- C#
-- Entity Framework
-- RESTful APIs
-
-### 🗄 Database
-- SQL Server
-- LINQ
-- Stored Procedures
-
-### 🎨 Frontend
-- HTML5 / CSS3
-- Bootstrap
-- JavaScript
-
-### ⚙ Tools
-- Git & GitHub
-- Visual Studio
-- IIS
-- Postman
-
----
-
-## 📌 What I Build
-
-✅ Custom Web Applications  
-✅ Admin Panels & Dashboards  
-✅ CRM Systems  
-✅ Business Automation Systems  
-✅ Secure Authentication & Authorization  
-✅ API Development & Integration  
-
----
-
-## 📈 GitHub Stats
-
+<h1 align="center">Davood</h1>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  ASP.NET MVC / .NET Core Developer  
 </p>
 
 ---
 
-## 🤝 Let's Connect
+## Professional Summary
 
-📧 Email: your-email@example.com  
-💼 LinkedIn: https://linkedin.com/in/your-profile  
-🌐 Portfolio: your-website.com  
+Experienced .NET developer focused on designing and developing structured, scalable, and maintainable web applications using ASP.NET MVC and .NET Core.
+
+Strong understanding of layered architecture, clean code principles, and database-driven systems.
 
 ---
 
-⭐ Always open to freelance & collaboration opportunities.
+## Core Competencies
+
+- ASP.NET MVC
+- .NET Core
+- C#
+- Entity Framework
+- SQL Server
+- RESTful API Development
+- Authentication & Authorization
+- Admin Panel Development
+
+---
+
+## Technical Approach
+
+- Structured Architecture (MVC / Layered Design)
+- Performance-Oriented Development
+- Secure Authentication Systems
+- Maintainable and Scalable Codebase
+
+---
+
+## Contact
+
+LinkedIn: https://linkedin.com/in/your-profile  
+Email: your-email@example.com  
+
+Open to professional collaboration and freelance projects.

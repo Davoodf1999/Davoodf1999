@@ -1,43 +1,38 @@
-<h1 align="center">Davood</h1>
-<p align="center">
-  ASP.NET MVC / .NET Core Developer  
-</p>
+# 👋 Hi, I'm Davood
+
+I’m a passionate software developer interested in building practical and scalable applications.  
+I enjoy working on both frontend and backend technologies and continuously improving my technical skills.
 
 ---
 
-## Professional Summary
+## 💻 Technical Skills
 
-Experienced .NET developer focused on designing and developing structured, scalable, and maintainable web applications using ASP.NET MVC and .NET Core.
+### 🔹 Version Control & Collaboration
+- Git
+- GitHub (Team Collaboration, Branching, Pull Requests, Code Review)
 
-Strong understanding of layered architecture, clean code principles, and database-driven systems.
+### 🔹 Backend Development
+- ASP.NET
+- Entity Framework (EF)
+- MySQL (Database Design & SQL Queries)
 
----
+### 🔹 Frontend Development
+- HTML
+- CSS
+- JavaScript
 
-## Core Competencies
-
-- ASP.NET MVC
-- .NET Core
-- C#
-- Entity Framework
-- SQL Server
-- RESTful API Development
-- Authentication & Authorization
-- Admin Panel Development
-
----
-
-## Technical Approach
-
-- Structured Architecture (MVC / Layered Design)
-- Performance-Oriented Development
-- Secure Authentication Systems
-- Maintainable and Scalable Codebase
+### 🔹 Tools & Platforms
+- Oracle APEX
+- Android Studio (Familiar with Android development environment)
 
 ---
 
-## Contact
+## 🚀 What I’m Focused On
+- Writing clean and maintainable code  
+- Learning modern development practices  
+- Improving backend architecture and database design skills  
 
+---
 
-Email: davoodfarkhonde14@gmail.com  
-
-Open to professional collaboration and freelance projects.
+## 📫 Let's Connect
+Always open to collaboration and learning opportunities.

@@ -37,7 +37,7 @@ Strong understanding of layered architecture, clean code principles, and databas
 
 ## Contact
 
-LinkedIn: https://linkedin.com/in/your-profile  
-Email: your-email@example.com  
+
+Email: davoodfarkhonde14@gmail.com  
 
 Open to professional collaboration and freelance projects.

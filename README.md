@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Davoodf1999
-- 👀 I’m interested in Music
-- 
+ASP.NET MVC Developer
+Building custom web applications, admin panels and REST APIs
+Available for freelance projects
